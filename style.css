@@ -514,7 +514,7 @@ color: gray;
   border: 1px solid gray;
   margin-top: 10px;
   outline: none;
-  background: white;
+  background:white;
   color: #000 !important;
   margin: 0 auto;
   font-size: 18px;
@@ -526,6 +526,7 @@ align-items: center;
 justify-content: center;
  gap: 5px;
 margin: 10px 0;
+
 }
 textarea{
   width: 90%;
@@ -591,8 +592,11 @@ color: #000;
 grid-template-columns: repeat(1,1fr);
 padding: 15px;
   }
+  .work-item img{
+    width: 70%;
+  }
   .white-box{
-   width: 70%;
+   width: 60%;
   margin: 0 auto;
   text-align: center;
   align-items: center;
@@ -643,6 +647,10 @@ padding: 15px;
     flex-direction: column;
   }
 }
+
+
+
+
 
 
 
