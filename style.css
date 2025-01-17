@@ -515,7 +515,7 @@ color: gray;
   margin-top: 10px;
   outline: none;
   background: white;
-  color: #0000;
+  color: #000 !important;
   margin: 0 auto;
   font-size: 18px;
 }
